@@ -1,12 +1,6 @@
 # Praktikum 3
 
 | Keterangan | Data                |
-| ---------- | ------------------- | ------------ |
-| **Nama**   | Eky Fikri Yamansyah |
-| **NIM**    | 312310572           |
-| **Kelas**  | TI.23.A6            | # Praktikum2 |
-
-| Keterangan | Data                |
 | ---------- | ------------------- |
 | **Nama**   | Eky Fikri Yamansyah |
 | **NIM**    | 312310572           |
