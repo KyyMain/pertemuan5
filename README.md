@@ -103,7 +103,7 @@ Kelas `Programmer` adalah subclass dari kelas `Pegawai` yang menambahkan atribut
 
 - `cetakInfo()`: Mengoverride metode dari kelas `Pegawai` untuk menampilkan informasi mengenai programmer, termasuk bonus.
 
-# Kelas Main
+## Kelas Main
 
 ![gambar](assets/Pegawai/o.png)
 
